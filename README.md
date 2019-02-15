@@ -6,7 +6,8 @@ A simple linear regression
 A SVM-based regression model 
 A decision trees (random forest) 
 
-as data used the house's temperature, humidity  and weather conditions from UCI(https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).
+as data used the house's temperature, humidity  and weather conditions from UCI. 
+DOWNLOAD THE DATA SET HERE: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
 The project includes:
 
@@ -14,6 +15,8 @@ The project includes:
 2. Train 3 different models on the data
 3. Model Evaluation & Selection
 4. Parameter Tuning
+5. Model Persistence
+
 
 ## Data Set Information
 
