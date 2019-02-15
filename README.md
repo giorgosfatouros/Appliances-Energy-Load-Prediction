@@ -21,35 +21,35 @@ The data set is at 10 min for about 4.5 months. The house temperature and humidi
 
 ## Attribute Information
 
-date time year-month-day hour:minute:second 
-Appliances, energy use in Wh 
-lights, energy use of light fixtures in the house in Wh 
-T1, Temperature in kitchen area, in Celsius 
-RH_1, Humidity in kitchen area, in % 
-T2, Temperature in living room area, in Celsius 
-RH_2, Humidity in living room area, in % 
-T3, Temperature in laundry room area 
-RH_3, Humidity in laundry room area, in % 
-T4, Temperature in office room, in Celsius 
-RH_4, Humidity in office room, in % 
-T5, Temperature in bathroom, in Celsius 
-RH_5, Humidity in bathroom, in % 
-T6, Temperature outside the building (north side), in Celsius 
-RH_6, Humidity outside the building (north side), in % 
-T7, Temperature in ironing room , in Celsius 
-RH_7, Humidity in ironing room, in % 
-T8, Temperature in teenager room 2, in Celsius 
-RH_8, Humidity in teenager room 2, in % 
-T9, Temperature in parents room, in Celsius 
-RH_9, Humidity in parents room, in % 
-To, Temperature outside (from Chievres weather station), in Celsius 
-Pressure (from Chievres weather station), in mm Hg 
-RH_out, Humidity outside (from Chievres weather station), in % 
-Wind speed (from Chievres weather station), in m/s 
-Visibility (from Chievres weather station), in km 
-Tdewpoint (from Chievres weather station), Â°C 
-rv1, Random variable 1, nondimensional 
-rv2, Random variable 2, nondimensional 
+1.  Date time year-month-day hour:minute:second 
+2.  Appliances, energy use in Wh 
+3.  Lights, energy use of light fixtures in the house in Wh 
+4.  T1, Temperature in kitchen area, in Celsius 
+5.  RH_1, Humidity in kitchen area, in % 
+6.  T2, Temperature in living room area, in Celsius 
+7.  RH_2, Humidity in living room area, in % 
+8.  T3, Temperature in laundry room area 
+9.  RH_3, Humidity in laundry room area, in % 
+10. T4, Temperature in office room, in Celsius 
+11. RH_4, Humidity in office room, in % 
+12. T5, Temperature in bathroom, in Celsius 
+13. RH_5, Humidity in bathroom, in % 
+14. T6, Temperature outside the building (north side), in Celsius 
+15. RH_6, Humidity outside the building (north side), in % 
+16. T7, Temperature in ironing room , in Celsius 
+17. RH_7, Humidity in ironing room, in % 
+18. T8, Temperature in teenager room 2, in Celsius 
+19. RH_8, Humidity in teenager room 2, in % 
+20. T9, Temperature in parents room, in Celsius 
+21. RH_9, Humidity in parents room, in % 
+22. To, Temperature outside (from Chievres weather station), in Celsius 
+23. Pressure (from Chievres weather station), in mm Hg 
+24. RH_out, Humidity outside (from Chievres weather station), in % 
+25. Wind speed (from Chievres weather station), in m/s 
+26. Visibility (from Chievres weather station), in km 
+27. Tdewpoint (from Chievres weather station), Â°C 
+28. rv1, Random variable 1, nondimensional 
+29. rv2, Random variable 2, nondimensional 
 
 Where indicated, hourly data (then interpolated) from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4.5 months of weather data. 
 
