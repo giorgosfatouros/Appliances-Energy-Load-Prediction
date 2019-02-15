@@ -7,7 +7,7 @@ A SVM-based regression model
 A decision trees (random forest) 
 
 as data used the house's temperature, humidity  and weather conditions from UCI. 
-DOWNLOAD THE DATA SET HERE: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+**DOWNLOAD THE DATA SET HERE**: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
 The project includes:
 
